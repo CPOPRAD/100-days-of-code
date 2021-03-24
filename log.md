@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 19, 2021 
+### R1D2 March 23, 2021
+**Today's Progress**: Reviewed week 3 RAD Women class (sObjects, DML) by watching the recording and coding along. WeekThreeClassExercises.sObjects(); 
+
+**Thoughts:** My bar for success is low - goal is 30 minutes every day. 
+
+**Link to work:** coming soon
+
+### R1D1 March 22, 2021
+**Today's Progress**: Did RAD Women class exercise: WeekThreeClassExercises.Conditionals();
+
+**Thoughts:** Still figuring out best time of day to do my coding.So far .... not the evening.
+
+**Link to work:** coming soon
+
+### R1D0: March 21, 2021 
 
 **Today's Progress**: Completed GitHub Hello World Tutorial so I understand the terms: repository, branch, commit
 **Thoughts:** Hope I am doing this right. This is day 0 
