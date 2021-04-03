@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 [Link to my Apex notes and resources list:](https://docs.google.com/document/d/11q7dOthSrdU_LO_Gb22XEtDIs9BikWfwWKl1DDbcbmE/edit#)
 
+In the Queue 
+April 5, 2021
+1. Finish Apex Hours [Mitch Spano - Trigger Action Framework](https://www.youtube.com/watch?v=lP615lsfRsI&t=78s)
+2. Start my mini Apex project to see how I can automate testing
+
+April 4, 2021
+1. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
+2. Start my first collaborative project in Python with my bro
+
+### R1D12 April 3, 2021
+1. Watched first 30 mins of Apex Hours [Mitch Spano - Trigger Action Framework](https://www.youtube.com/watch?v=lP615lsfRsI&t=78s)
+2. Cleaned up my Git Hub README and added my monthly goals for Q2-4
+3. I found a resource that fits my learning style: [Salesforce Casts](https://www.salesforcecasts.com/)
+
+### R1D12 April 2, 2021
+1. Apex Hours Salesforce Developer Playlist, [Day 1: Introduction To Apex | DataType | Collection | Conditional Statements | Day 1](https://www.youtube.com/watch?v=68X85SxAU1g)
+
+### R1D11 April 1, 2021
+1. David Liu's Apex Academy [Fundamental Saleforce Coding Techniques](https://app.pluralsight.com/library/courses/apex-fundamental-coding) 
+
 ### R1D10 March 31,2021
 **Today's Progress** Read three articles and followed along in the Dev console.
 1. [How buying a major appliance can help you understand Object-Oriented Programming](http://womencodeheroes.com/2014/12/oop-terminology-explained-classes-variables-methods-objects/)
