@@ -2,12 +2,13 @@
 [Link to my Apex notes and resources list:](https://docs.google.com/document/d/11q7dOthSrdU_LO_Gb22XEtDIs9BikWfwWKl1DDbcbmE/edit#)
 
 In the Queue 
-April 5, 2021
 1. Finish Apex Hours [Mitch Spano - Trigger Action Framework](https://www.youtube.com/watch?v=lP615lsfRsI&t=78s)
 2. Start my mini Apex project to see how I can automate testing
+3. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
 
-April 4, 2021
-1. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
+### R1D13 April 4, 2021
+
+1. Live Coding with fellow RAD Women grads - [Link to my work](https://gist.github.com/Cpopsays/21c9b901478c5ed478b951d122022e78)
 2. Start my first collaborative project in Python with my bro
 
 ### R1D12 April 3, 2021
