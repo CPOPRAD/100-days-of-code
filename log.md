@@ -3,8 +3,11 @@
 
 In the Queue 
 1. Finish Apex Hours [Mitch Spano - Trigger Action Framework](https://www.youtube.com/watch?v=lP615lsfRsI&t=78s)
-2. Start my mini Apex project to see how I can automate testing
-3. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
+2. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
+
+### R1D14 April 5, 2021
+1. Reviewed [David K Liu's Apex Academy Test Classes module on Pluralsight platform](https://www.pluralsight.com)
+2. Wrote outline of my app test class in pseudo code that I will start writing tomorrow
 
 ### R1D13 April 4, 2021
 
