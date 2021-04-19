@@ -2,8 +2,9 @@
 [Link to my Apex notes and resources list:](https://docs.google.com/document/d/11q7dOthSrdU_LO_Gb22XEtDIs9BikWfwWKl1DDbcbmE/edit#)
 
 In the Queue 
-1. Finish Apex Hours [Mitch Spano - Trigger Action Framework](https://www.youtube.com/watch?v=lP615lsfRsI&t=78s)
 2. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
+
+### R1D4 Had an interesting discussion with my brother who is a software engineer at the Genomics Institute at UC Santa Cruz about how he approaches new coding problems. We discussed the RAD Women monthly coding challenge for April and how we could employ "defensive coding" strategies to ensure that our code could scale with evolving business processes. 
 
 ### R1D2-3 4/16/21-4/17/21
 1. Started [Apex Basics & Database](https://trailhead.salesforce.com/en/content/learn/modules/apex_database)
