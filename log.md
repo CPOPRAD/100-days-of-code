@@ -2,12 +2,14 @@
 [Link to my Apex notes and resources list:](https://docs.google.com/document/d/11q7dOthSrdU_LO_Gb22XEtDIs9BikWfwWKl1DDbcbmE/edit#)
 
 
+
 ### R1D10 4/27/21
-1. Finished all my [pseudocode] (https://github.com/Cpopsays/RADWomenApril2021/tree/main) for @RADWomenCode April coding challenge. 
-I have a TODO list and plan for the code. Need to get crackin' if I'm to make the deadline.
+* Finished all my [pseudocode](https://github.com/Cpopsays/RADWomenApril2021/tree/main) for @RADWomenCode April coding challenge. 
+* I have a TODO list and plan for the code. Need to get crackin' if I'm to make the deadline.
+* I've already started sleeping through my alarm clock again and I will need to stop doing that so I have enough time to ft in my Platform App Builder study AND the coding practice. 
  
  ### R1D9 4/26/21
-1. Watched Trailhead Live [Preparing for our Platform Developer 1 exam ] (https://trailhead.salesforce.com/live/broadcasts/a2r3k000001vCtQ/preparing-for-your-platform-developer-i-certification--deployment-environments-and-tools)
+1. Watched Trailhead Live [Preparing for our Platform Developer 1 exam](https://trailhead.salesforce.com/live/broadcasts/a2r3k000001vCtQ/preparing-for-your-platform-developer-i-certification--deployment-environments-and-tools)
 2. Created some anki flashcards on the material to continue to review and to research further
 
 
