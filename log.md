@@ -4,6 +4,10 @@
 In the Queue 
 2. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
 
+### R1D9 4/26/21
+1. Watched Trailhead Live [Preparing for our Platform Developer 1 exam ] (https://trailhead.salesforce.com/live/broadcasts/a2r3k000001vCtQ/preparing-for-your-platform-developer-i-certification--deployment-environments-and-tools)
+2. Created some anki flashcards on the material to continue to review and to research further
+
 ### R1D7 & 8 
 1. Added a few more records for monthly coding challenge  
 2. Sketched out solution ideas
