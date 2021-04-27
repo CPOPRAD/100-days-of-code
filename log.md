@@ -10,15 +10,14 @@
  
  ### R1D9 4/26/21
 1. Watched Trailhead Live [Preparing for our Platform Developer 1 exam](https://trailhead.salesforce.com/live/broadcasts/a2r3k000001vCtQ/preparing-for-your-platform-developer-i-certification--deployment-environments-and-tools)
-2. Created some anki flashcards on the material to continue to review and to research further
+2. Created some anki flashcards on the material to continue to review and to research further the unfamiliar concepts
 
 
 ### R1D7 & 8 
-1. Added a few more records for monthly coding challenge  
-2. Sketched out solution ideas
+* Added a few more records for monthly coding challenge  
 
 ### R1D5 & 6
-1. Completed [Data Creation for RAD April Challenge] (https://github.com/Cpopsays/RADWomenApril2021/blob/main/Data%20Creation)
+* Completed [Data Creation for RAD April Challenge] (https://github.com/Cpopsays/RADWomenApril2021/blob/main/Data%20Creation)
 
 ### R1D4 Had an interesting discussion with my brother who is a software engineer at the Genomics Institute at UC Santa Cruz about how he approaches new coding problems. We discussed the RAD Women monthly coding challenge for April and how we could employ "defensive coding" strategies to ensure that our code could scale with evolving business processes. 
 
